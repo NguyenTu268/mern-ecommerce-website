@@ -9,14 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hasan-py/MERN_Stack_Project_Hayroo_Ecommerce"
+    "url": "https://github.com/NguyenTu268/mern-ecommerce-website"
   },
-  "author": "Hasan | https://hasan-py.github.io",
+  "author": "Hasan | https://nguyentu268.github.io/portfolio/",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hasan-py/MERN_Stack_Project_Hayroo_Ecommerce/issues"
+    "url": "https://github.com/NguyenTu268/mern-ecommerce-website/issues"
   },
-  "homepage": "https://github.com/hasan-py/MERN_Stack_Project_Hayroo_Ecommerce#readme",
+   "engines": {
+      "node": ">=16.20.1"
+    },
+  "homepage": "https://github.com/NguyenTu268/mern-ecommerce-website#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "braintree": "^3.0.0",
