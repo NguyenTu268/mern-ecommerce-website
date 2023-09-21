@@ -5,8 +5,10 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "some command to be run",
+    "start": // some start script,
+    "test": // some test script,
     "start:dev": "nodemon app.js"
+    
   },
   "repository": {
     "type": "git",
